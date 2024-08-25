@@ -1,0 +1,1 @@
+The current project is to practice my html skills and build a basic recipe website. The skills I'll have demonstrated are an understanding of how to use git and github in order to create a repository. I'll also be familiarizing myself with the html syntax and the starting steps of building a website.
