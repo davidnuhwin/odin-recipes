@@ -5,8 +5,19 @@
 
 .heading {
     background-color: rgb(237, 141, 229);
+    line-height: 1.2
 }
 
 .recipe-link {
     list-style-position: inside;
 }
+
+.structure{ 
+        margin: 40px auto;
+        max-width: 650px;
+        line-height: 1.6;
+        font-size: 18px;
+        color: #444;
+        padding: 0 10px
+}
+
